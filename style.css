@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.hero{
+    background: #F7EC00;
+    /* width: auto;
+    height: 100vh; */
+    
+}
+
+
+.btn{
+    background:#5322A8;
+}
+
+.btn:hover{
+    background: #5d13db;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #5322A8;
+}
+
+
+/* features */
+.features-box{
+    display: flex;
+    padding: 20px;
+}
+
+.features{
+    background-color: #eee;
+    padding-bottom:20px;
+    
+}
+.features h2{
+    text-align: center;
+    font-weight:800;
+    padding: 10px;
+    text-decoration: underline;
+}
+.feature{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: #5322A8;
+    box-shadow: 10px 5px 5px rgb(187, 138, 225);
+
+}
+.feature:hover{
+    background: #F7EC00;
+}
+
+.feature img{
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    padding-bottom: 5px;
+}
+
+.feature p{
+    color: #eee;
+}
+
+
+/* features */
+
+.testimonials{
+    background: #5d13db;
+}
+
+/* .testimony p a:hover{
+    background: #5322A8;
+} */
+
+.pricing{
+    background: #F7EC00;
+}
+
+.footer{
+    background: #F7EC00;
+}
+
+.nav a li{
+    color: #eee;
+}
